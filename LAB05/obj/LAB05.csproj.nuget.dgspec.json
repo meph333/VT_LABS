@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arcra\\OneDrive\\Desktop\\LAB05\\LAB05.csproj": {}
+    "D:\\VT_LABS\\LAB05\\LAB05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arcra\\OneDrive\\Desktop\\LAB05\\LAB05.csproj": {
+    "D:\\VT_LABS\\LAB05\\LAB05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcra\\OneDrive\\Desktop\\LAB05\\LAB05.csproj",
+        "projectUniqueName": "D:\\VT_LABS\\LAB05\\LAB05.csproj",
         "projectName": "LAB05",
-        "projectPath": "C:\\Users\\arcra\\OneDrive\\Desktop\\LAB05\\LAB05.csproj",
+        "projectPath": "D:\\VT_LABS\\LAB05\\LAB05.csproj",
         "packagesPath": "C:\\Users\\arcra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcra\\OneDrive\\Desktop\\LAB05\\obj\\",
+        "outputPath": "D:\\VT_LABS\\LAB05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arcra\\AppData\\Roaming\\NuGet\\NuGet.Config",

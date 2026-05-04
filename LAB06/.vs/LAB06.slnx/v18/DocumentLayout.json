@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\VT_LABS\\LAB06\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VT_LABS\\LAB06\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAmwIUBAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\VT_LABS\\LAB06\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAEBAAAAAAAAAIAwwCQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T11:26:22.714Z",
               "EditorCaption": ""
@@ -39,10 +39,11 @@
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\VT_LABS\\LAB06\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\VT_LABS\\LAB06\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\VT_LABS\\LAB06\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T07:20:53.92Z"
+              "WhenOpened": "2026-04-21T07:20:53.92Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
